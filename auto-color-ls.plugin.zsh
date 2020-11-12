@@ -1,6 +1,5 @@
 auto-color-ls() {
 	emulate -L zsh
-	echo
 	colorls -lA --sd
 }
 
